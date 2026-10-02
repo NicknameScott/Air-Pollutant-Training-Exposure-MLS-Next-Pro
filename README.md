@@ -1,7 +1,7 @@
 # Air-Pollutant-Training-Exposure-MLS-Next-Pro
 
 ## Overview
-This project investigates the relationship between air pollutants during the days leading up to a soccer match and team performance during the match.
+This project investigates the relationship between air pollutants during the days leading up to a soccer match and team performance during the match. Below is an explanation of the data located in analysis_dataset.csv
 
 ## Data
 The project uses data from the:
