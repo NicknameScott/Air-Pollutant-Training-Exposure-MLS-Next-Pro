@@ -1,7 +1,7 @@
 # Air-Pollutant-Training-Exposure-MLS-Next-Pro
 
 ## Overview
-This project investigates the relationship between air pollutants during the days leading up to a soccer match and team performance during the match. Below is an explanation of the dataset located in analysis_dataset.csv. The Jupyter Notebooks explains how it uses the data.
+This project investigates the relationship between air pollutants during the days leading up to a soccer match and team performance during the match. Below is an explanation of the dataset located in analysis_dataset.csv, it uses collect_data.py and config.py. The Jupyter Notebooks explains how it uses the data.
 
 ## Data
 The project uses data from the:
