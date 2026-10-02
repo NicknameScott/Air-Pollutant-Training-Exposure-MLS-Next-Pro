@@ -1,0 +1,31 @@
+team,team_id,alias,city,state,country,latitude,longitude,elevation,timezone,verify_note
+Atlanta United 2,MLS-CLU-00001W,Atlanta|Atlanta United II,Atlanta,GA,US,33.75,-84.39,316,America/New_York,city centroid; training site is in Marietta area
+Austin FC II,MLS-CLU-00001Q,Austin,Austin,TX,US,30.27,-97.74,164,America/Chicago,city centroid
+Carolina Core FC,MLS-CLU-00003I,,High Point,NC,US,35.970554,-79.997498,272,America/New_York,FILL IN - not confident of home city
+Crown Legacy Football Club,MLS-CLU-00001R,Crown Legacy FC|Charlotte,Charlotte,NC,US,35.23,-80.84,239,America/New_York,city centroid
+Chattanooga FC,MLS-CLU-00003H,Chattanooga,Chattanooga,TN,US,35.05,-85.31,206,America/New_York,city centroid
+Chicago Fire FC II,MLS-CLU-000017,Chicago,Chicago,IL,US,41.88,-87.63,265,America/Chicago,city centroid
+FC Cincinnati 2,MLS-CLU-00001A,Cincinnati,Cincinnati,OH,US,39.1,-84.51,160,America/New_York,city centroid
+Colorado Rapids 2,,Colorado,Denver area,CO,US,39.74,-104.99,1597,America/Denver,city centroid
+Columbus Crew 2,MLS-CLU-000019,Columbus,Columbus,OH,US,39.96,-83,231,America/New_York,city centroid
+North Texas SC,MLS-CLU-000015,North Texas,Frisco,TX,US,33.15,-96.82,219,America/Chicago,city centroid
+Houston Dynamo 2,,Houston,Houston,TX,US,29.76,-95.37,20,America/Chicago,city centroid
+Huntsville City Football Club,MLS-CLU-00001S,Huntsville|Huntsville City FC,Huntsville,AL,US,34.73,-86.59,190,America/Chicago,city centroid
+Sporting KC II,MLS-CLU-00000Y,Kansas City,Kansas City,MO,US,39.1,-94.58,276,America/Chicago,city centroid
+Los Angeles Football Club 2,MLS-CLU-00001U,LAFC 2|LAFC II|LAFC,Los Angeles,CA,US,34.05,-118.24,87,America/Los_Angeles,city centroid
+Inter Miami CF II,MLS-CLU-00001C,Miami|Inter Miami II,Fort Lauderdale,FL,US,26.12,-80.14,6,America/New_York,city centroid
+MNUFC2,MLS-CLU-00001D,Minnesota United FC 2|Minnesota,Minneapolis,MN,US,44.98,-93.27,257,America/Chicago,city centroid
+New England Revolution II,MLS-CLU-000016,New England,Foxborough,MA,US,42.09,-71.26,79,America/New_York,city centroid
+New York Red Bulls II,MLS-CLU-00001V,RBNY II|New York,Harrison,NJ,US,40.74,-74.15,4,America/New_York,city centroid
+NYCFC II,MLS-CLU-00001E,New York City FC II|New York City,New York,NY,US,40.71,-74.01,27,America/New_York,city centroid
+Orlando City B,MLS-CLU-000010,Orlando,Orlando,FL,US,28.54,-81.38,39,America/New_York,city centroid
+Philadelphia Union II,MLS-CLU-00000Z,Philadelphia,Chester,PA,US,39.85,-75.36,10,America/New_York,city centroid
+Timbers2,MLS-CLU-000012,Portland Timbers 2|Portland,Portland,OR,US,45.52,-122.68,31,America/Los_Angeles,city centroid
+Real Monarchs,MLS-CLU-000013,Salt Lake,Salt Lake City,UT,US,40.76,-111.89,1302,America/Denver,city centroid
+San Jose Earthquakes II,,SJ Earthquakes II,San Jose,CA,US,37.34,-121.89,26,America/Los_Angeles,city centroid
+St Louis CITY2,MLS-CLU-00001G,St. Louis City 2|St. Louis,St. Louis,MO,US,38.63,-90.2,152,America/Chicago,city centroid
+Tacoma Defiance,MLS-CLU-00000X,Tacoma,Tacoma,WA,US,47.25,-122.44,42,America/Los_Angeles,city centroid
+TFC II,MLS-CLU-000011,Toronto FC II|Toronto,Toronto,ON,CA,43.65,-79.38,87,America/Toronto,city centroid
+Whitecaps FC 2,MLS-CLU-000014,Vancouver Whitecaps FC 2|Vancouver,Vancouver,BC,CA,49.28,-123.12,37,America/Vancouver,city centroid
+Ventura County FC,MLS-CLU-00001T,Ventura,Ventura,CA,US,34.28,-119.29,25,America/Los_Angeles,city centroid
+The Town FC,MLS-CLU-00001F,Town FC,Oakland,CA,US,37.8,-122.27,17,America/Los_Angeles,city centroid; confirm home city

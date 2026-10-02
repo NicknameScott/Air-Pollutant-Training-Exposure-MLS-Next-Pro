@@ -1,0 +1,52 @@
+stadium_id,stadium,city,state,country,latitude,longitude,elevation,coord_source
+MLS-STA-000018,Parmer Field,"Austin, TX",,USA,30.26715,-97.74306,157.0,geocoded_city_centroid
+MLS-STA-000039,Mecklenburg County Sportsplex,"Matthews, NC",,USA,35.11681,-80.72368,228.0,geocoded_city_centroid
+MLS-STA-000008,Chase Stadium,"Fort Lauderdale, FL",,USA,26.12231,-80.14338,4.0,geocoded_city_centroid
+MLS-STA-000011,Fifth Third Stadium,"Kennesaw, GA",,USA,34.02343,-84.61549,336.0,geocoded_city_centroid
+MLS-STA-00004W,William Rolland Stadium,Thousand Oaks,,USA,34.17056,-118.83759,272.0,geocoded_city_centroid
+MLS-STA-00000Y,SaberCats Stadium,"Houston, TX",,USA,29.76328,-95.36327,14.0,geocoded_city_centroid
+MLS-STA-00000N,Gillette Stadium,"Foxborough, MA",,USA,42.06538,-71.24783,91.0,geocoded_city_centroid
+MLS-STA-00001B,SeatGeek Stadium,"Bridgeview, IL",,USA,41.75003,-87.80422,189.0,geocoded_city_centroid
+MLS-STA-000016,NKU Soccer Stadium,Cincinnati,,USA,39.12711,-84.51439,266.0,geocoded_city_centroid
+MLS-STA-000017,Osceola Heritage Park,"Kissimmee, FL",,USA,28.30468,-81.41667,23.0,geocoded_city_centroid
+MLS-STA-000010,Choctaw Stadium,"Arlington, TX",,USA,32.73569,-97.10807,187.0,geocoded_city_centroid
+MLS-STA-00001F,Titan Stadium,"Fullerton, CA",,USA,33.87029,-117.92534,52.0,geocoded_city_centroid
+MLS-STA-000026,Children's Mercy Victory Field,Kansas City,,USA,39.09973,-94.57857,280.0,geocoded_city_centroid
+MLS-STA-00000Z,Belson Stadium,New York,,USA,40.71427,-74.00597,51.0,geocoded_city_centroid
+MLS-STA-00001D,Starfire Sports Complex,"Tukwila, WA",,USA,47.47399,-122.26096,45.0,geocoded_city_centroid
+MLS-STA-00002S,Finley Stadium,Chattanooga,,USA,35.04563,-85.30968,209.0,geocoded_city_centroid
+MLS-STA-00000P,Providence Park,"Portland, OR",,USA,45.52345,-122.67621,13.0,geocoded_city_centroid
+MLS-STA-000002,Subaru Park,"Chester, PA",,USA,39.84753,-75.35785,8.0,geocoded_city_centroid
+MLS-STA-00000U,Energizer Park,"St. Louis, MO",,USA,38.62727,-90.19789,142.0,geocoded_city_centroid
+MLS-STA-00000R,America First Field,"Sandy, UT",,USA,40.59161,-111.8841,1362.0,geocoded_city_centroid
+MLS-STA-000013,Wicks Family Field,"Huntsville, AL",,USA,34.7304,-86.58594,197.0,geocoded_city_centroid
+MLS-STA-00001E,Swangard Stadium,Burnaby,,USA,27.5567,-82.74316,0.0,geocoded_city_centroid
+MLS-STA-00000B,Sports Illustrated Stadium,"Harrison, NJ",,USA,40.74649,-74.15626,12.0,geocoded_city_centroid
+MLS-STA-00000H,Shell Energy Stadium,"Houston, TX",,USA,29.76328,-95.36327,14.0,geocoded_city_centroid
+MLS-STA-00002T,Truist Point,High Point,,USA,35.95569,-80.00532,288.0,geocoded_city_centroid
+MLS-STA-000014,MSU Soccer Park,New Jersey,,USA,40.48622,-74.32154,5.0,geocoded_city_centroid
+MLS-STA-00000E,Lower.com Field,"Columbus, OH",,USA,39.96118,-82.99879,227.0,geocoded_city_centroid
+MLS-STA-00005P,Greater Zion Stadium,"St. George, UT",,USA,37.10415,-113.58412,823.0,geocoded_city_centroid
+MLS-STA-00000A,Mercedes-Benz Stadium,"Atlanta, GA",,USA,33.749,-84.38798,327.0,geocoded_city_centroid
+MLS-STA-00001I,Zions Bank Stadium,"Herriman, UT",,USA,40.51411,-112.03299,1509.0,geocoded_city_centroid
+MLS-STA-000042,IMG Academy Stadium,"Bradenton, FL",,USA,27.49893,-82.57482,3.0,geocoded_city_centroid
+MLS-STA-00001H,York Lions Stadium,Toronto,,Canada,43.70643,-79.39864,165.0,geocoded_city_centroid
+MLS-STA-00005B,Swope Park,"Kansas City, KS",,USA,39.11417,-94.62746,270.0,geocoded_city_centroid
+MLS-STA-00000J,DICK'S Sporting Goods Park,"Commerce City, CO",,USA,39.80832,-104.93387,1572.0,geocoded_city_centroid
+MLS-STA-00001G,University of Denver Soccer Stadium,"Denver, CO",,USA,39.73915,-104.9847,1609.0,geocoded_city_centroid
+MLS-STA-000012,Historic Crew Stadium,"Columbus, OH",,USA,39.96118,-82.99879,227.0,geocoded_city_centroid
+MLS-STA-000024,St. Mary’s College,"Moraga, CA",,USA,37.83493,-122.12969,149.0,geocoded_city_centroid
+MLS-STA-000015,National Sports Center Stadium,"Blaine, MN",,USA,45.1608,-93.23495,275.0,geocoded_city_centroid
+MLS-STA-00006B,UIC Flames Field,"Chicago, IL",,USA,41.85003,-87.65005,179.0,geocoded_city_centroid
+MLS-STA-00000C,BC Place,"Vancouver, BC",,Canada,49.24966,-123.11934,73.0,geocoded_city_centroid
+MLS-STA-00000G,Dignity Health Sports Park,"Carson, CA",,USA,33.83141,-118.28202,13.0,geocoded_city_centroid
+MLS-STA-00001C,Sportsplex at Matthews,"Matthews, NC",,USA,35.11681,-80.72368,228.0,geocoded_city_centroid
+MLS-STA-00006O,Turner Soccer Complex,"Athens, GA",,USA,33.96095,-83.37794,224.0,geocoded_city_centroid
+MLS-STA-000055,Icahn Stadium,New York,,USA,40.71427,-74.00597,51.0,geocoded_city_centroid
+MLS-STA-000005,Toyota Stadium,"Frisco, TX",,USA,33.15067,-96.82361,211.0,geocoded_city_centroid
+MLS-STA-00000Q,PayPal Park,"San Jose, CA",,USA,37.33939,-121.89496,33.0,geocoded_city_centroid
+MLS-STA-00006Q,Civic Park,"Eugene, OR",,USA,44.05207,-123.08675,130.0,geocoded_city_centroid
+MLS-STA-00006R,RCTC Stadium,"Rochester, MN",,USA,44.02163,-92.4699,316.0,geocoded_city_centroid
+MLS-STA-00006S,University of Northern Colorado – Jackson Field,"Greeley, CO",,USA,40.42331,-104.70913,1426.0,geocoded_city_centroid
+MLS-STA-00000L,Allianz Field,"St. Paul, MN",,USA,44.93441,-93.05994,213.0,geocoded_city_centroid
+MLS-STA-00006T,USC - Rawlinson Stadium,"Los Angeles, CA",,USA,34.05223,-118.24368,91.0,geocoded_city_centroid
